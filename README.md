@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davy3d
 - 👀 I’m interested in ... Math and coding
-- 🌱 I’m currently learning ... Pre-Algebra
+- 🌱 I’m currently learning ... Algebra 1
 - ⚡ Fun fact: ... I love math
 
 <!---
